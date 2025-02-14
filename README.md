@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Android Developer | Graphic Designer | Tech Enthusiast</b>
+  <b>Exploring Full Stack | Graphic Designer | Tech Enthusiast</b>
 </p>
 
 ---
