@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Android Developer Intern with hands-on experience in mobile development.
 - 🎨 Graphic Designer at Google Developer Group (GDG) SCOE.
 - 📚 Passionate about coding, problem-solving, and teamwork.
 
