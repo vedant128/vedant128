@@ -15,9 +15,7 @@
   <a href="mailto:vedantgunjal2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vedantgunjal2005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1TwMlbNCRImv7jh4xyLFgCtkgXWemnfYe/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
+
 </div>
 
 <br />
@@ -30,9 +28,9 @@
   <table>
     <tr>
       <td align="center">🚀 <b>10+</b><br/>Projects Built</td>
-      <td align="center">💼 <b>3+</b><br/>Years Experience</td>
+      <td align="center">💼 <b>1+</b><br/>Years Experience</td>
       <td align="center">🛠️ <b>10+</b><br/>Technologies</td>
-      <td align="center">👑 <b>2+</b><br/>Leadership Roles</td>
+      <td align="center">👑 <b>1+</b><br/>Leadership Roles</td>
     </tr>
   </table>
 </div>
@@ -96,19 +94,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Farmer-Cab** | Uber-like platform for farmers with marketplace. | [Link](https://vedantgunjal.vercel.app/) |
-| **The Plant Palette** | E-commerce platform for plants with cart & checkout. | [Link](https://vedantgunjal.vercel.app/) |
-| **Nutra AI** | Community platform for doctors with AI chatbot. | [Link](https://vedantgunjal.vercel.app/) |
-| **Weather App** | Real-time weather with location-based forecasts. | [Link](https://vedantgunjal.vercel.app/) |
-
-> *Check out more projects on my [Portfolio Website](https://vedantgunjal.vercel.app/)*
-
----
-
 ## 🎓 Education
 
 - 🎓 **B.E. in Information Technology** — *Sinhgad College of Engineering (SCOE)* | CGPA: 8.99
@@ -121,7 +106,7 @@
 
 <div align="center">
   <a href="https://github.com/vedant128">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant128&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant128&layout=compact&theme=tokyonight"/>
   </a>
 </div>
