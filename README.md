@@ -45,6 +45,8 @@
   <img align="right" width="350" alt="Snake animation" src="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 - 👨‍💻 **Current Journey:** B.E. in Information Technology at SCOE (Expected 2027)
 - 🎯 **Currently Working On:** React Native project, Machine Learning project, and Advanced Web3 Applications.
 - 🌱 **Learning:** Advanced backend, APIs, and AI concepts.
@@ -81,6 +83,7 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-%2361DAFB.svg?style=for-the-badge&logo=next.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -106,7 +109,6 @@
 
 <div align="center">
   <a href="https://github.com/vedant128">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vedant128&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant128&layout=compact&theme=tokyonight"/>
   </a>
 </div>
