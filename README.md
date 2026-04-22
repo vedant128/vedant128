@@ -39,21 +39,19 @@
 
 ## 🚀 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake.svg">
-  <img align="right" width="350" alt="Snake animation" src="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 - 👨‍💻 **Current Journey:** B.E. in Information Technology at SCOE (Expected 2027)
 - 🎯 **Currently Working On:** React Native project, Machine Learning project, and Advanced Web3 Applications.
 - 🌱 **Learning:** Advanced backend, APIs, and AI concepts.
 - 🤝 **Beliefs:** Strong teamwork, consistency, and continuous learning.
 - 📫 **How to reach me:** Shoot an email to [vedantgunjal2005@gmail.com](mailto:vedantgunjal2005@gmail.com)
 
-<br/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Snake animation" src="https://raw.githubusercontent.com/vedant128/vedant128/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
