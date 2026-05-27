@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://vedantgunjal.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vedantgunjal.vercel.app-%2300F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-vedantgunjal.in?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
   <a href="mailto:vedantgunjal2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-vedantgunjal2005@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
