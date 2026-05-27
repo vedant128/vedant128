@@ -192,9 +192,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vedant128">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant128&layout=compact&theme=tokyonight"/>
-  </a>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vedant128&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant128&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant128&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
 </div>
 
 ---
