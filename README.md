@@ -32,7 +32,7 @@
     <tr>
       <td align="center">🚀 <b>10+</b><br/>Projects Built</td>
       <td align="center">💼 <b>1+</b><br/>Years Experience</td>
-      <td align="center">🛠️ <b>10+</b><br/>Technologies</td>
+      <td align="center">🛠️ <b>15+</b><br/>Technologies</td>
       <td align="center">👑 <b>1+</b><br/>Leadership Roles</td>
     </tr>
   </table>
